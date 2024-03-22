@@ -1,1 +1,1 @@
-# xss_list
+# XSS%20SQL%20CRLF%20....EVERY%20THING_list
